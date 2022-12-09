@@ -19,7 +19,8 @@ function displayCards (){
 
   window.onload = () =>{displayCards()} 
 
-  function favTutorial() {
+  function favTutorialstat() {
     var mylist = document.getElementById("myList");
     document.getElementById("favourite").value = mylist.options[mylist.selectedIndex].text;
     }
+    let parksByLocation = nationalParksArray.filter
