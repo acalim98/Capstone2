@@ -1,9 +1,9 @@
 # Capstone2
 The website is easy to navigate and has a clean and professional design. The homepage features a large hero image of a hiker standing atop a mountain, with a call to action to learn more about the two parks.
 
-The top navigation bar has links to the About, Parks, and Contact pages. The About page provides information about the two parks, including their history, location, and amenities. The Parks page has a gallery of images showcasing the beauty of the parks, with captions and descriptions of each image. The Contact page has a form for visitors to inquire about the parks or to provide feedback.
+The top navigation bar has links to the Home, National Parks, and mountain pages. The National Parks page provides information about the location and parks, including their history, and amenities. The Parks page has a gallery of images showcasing the beauty of the parks, with captions and descriptions of each image. The Contact page has a form for visitors to inquire about the parks or to provide feedback in the home page.
 
-The website also has a footer with social media links and a newsletter sign-up form. Overall, the website is designed to be user-friendly and engaging for hikers and nature lovers.
+The website also has a discription with social media buttons and a contact number. Overall, the website is designed to be user-friendly and engaging for hikers and nature lovers.
 
 
 
